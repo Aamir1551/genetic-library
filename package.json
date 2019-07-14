@@ -1,11 +1,24 @@
 {
   "name": "genetic-lib",
   "version": "1.0.0",
-  "description": "",
+  "description": "A genetic algorithm library for future use in ML algorithms",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "aamir",
+  "license": "ISC",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aamir1551/genetic-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aamir1551/genetic-library/issues"
+  },
+  "homepage": "https://github.com/Aamir1551/genetic-library#readme"
 }
